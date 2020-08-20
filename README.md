@@ -1,9 +1,9 @@
-## 👋 Hi there, I'm Yohan
+# 👋🏽 Hi there, I'm Yohan
 
-   🔭 I’m a software engineering student @Epita.\
-   🌱 I’m currently learning TypeScript and competitive programming.\
-   💬 Ask me about anything.\
-   📫 How to reach me: Use the bagdes below!
+	🔭 I’m a software engineering student @Epita.\
+	🌱 I’m currently learning TypeScript and competitive programming.\
+	💬 Ask me about anything.\
+	📫 How to reach me: Use the bagdes below!
 
 <a href="https://www.linkedin.com/in/yohan-tancrez-1302aa163/">
   <img align="left" alt="Yohan's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
