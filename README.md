@@ -1,7 +1,7 @@
 # 👋🏽 Hi there, I'm Yohan
 
-	🔭 I’m a software engineering student @Epita.
-	🌱 I’m currently learning Solidity and Golang.
+	🔭 I’m a software engineer working on web3 projects
+	🌱 I’m currently learning Cairo.
 	💬 Ask me about anything.
 	📫 How to reach me: Use the bagdes below!
 
