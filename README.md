@@ -2,5 +2,5 @@
 
 
 	🔭 I’m a software engineer working on web3 projects
-	🌱 I’m currently learning Rust.
+	🌱 I’m currently learning Cairo.
 	💬 Ask me about anything.
